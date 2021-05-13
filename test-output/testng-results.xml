@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18696" started-at="2021-05-13T10:11:13 CDT" finished-at="2021-05-13T10:11:32 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18696" started-at="2021-05-13T10:11:13 CDT" finished-at="2021-05-13T10:11:32 CDT">
+      <class name="practice_assignment.loginPage">
+        <test-method status="PASS" signature="configRead()[pri:0, instance:practice_assignment.loginPage@6f195bc3]" name="configRead" is-config="true" duration-ms="7" started-at="2021-05-13T10:11:13 CDT" finished-at="2021-05-13T10:11:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configRead -->
+        <test-method status="PASS" signature="searchBrowser()[pri:0, instance:practice_assignment.loginPage@6f195bc3]" name="searchBrowser" is-config="true" duration-ms="15905" started-at="2021-05-13T10:11:13 CDT" finished-at="2021-05-13T10:11:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBrowser -->
+        <test-method status="PASS" signature="webSearch()[pri:0, instance:practice_assignment.loginPage@6f195bc3]" name="webSearch" duration-ms="2753" started-at="2021-05-13T10:11:29 CDT" finished-at="2021-05-13T10:11:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webSearch -->
+      </class> <!-- practice_assignment.loginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
